@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BitPedrinho
+- 👋 Hi, I’m Pedro Lopes
 - 👀 I’m interested in CD/IA
 - 🌱 I’m currently learning Python
 - 📫 How to reach me ...
