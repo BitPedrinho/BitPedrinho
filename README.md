@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @BitPedrinho
+- 👀 I’m interested in CD/IA
+- 🌱 I’m currently learning Python
+- 📫 How to reach me ...
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I like Studio Ghibli films
